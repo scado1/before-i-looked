@@ -77,3 +77,14 @@ page again with `LANE_MARKER` unset (the banner reads "no marker set") and uploa
 link. Move this plan to `docs/plans/done/` with its issue list.
 
 Done when: the preview link no longer shows the lane marker.
+
+## Issues
+
+- #1 Digest types and readNight signature: https://github.com/scado1/before-i-looked/issues/1
+- #2 Run log reader: https://github.com/scado1/before-i-looked/issues/2
+- #3 Digest page: https://github.com/scado1/before-i-looked/issues/3
+- #4 Digest JSON: https://github.com/scado1/before-i-looked/issues/4
+- #5 Board link to digests: https://github.com/scado1/before-i-looked/issues/5
+- #6 Digest route tests: https://github.com/scado1/before-i-looked/issues/6
+- #7 Preview for review: https://github.com/scado1/before-i-looked/issues/7
+- #8 Clean up the preview: https://github.com/scado1/before-i-looked/issues/8
